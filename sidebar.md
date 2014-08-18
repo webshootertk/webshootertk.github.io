@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Sidebar
-group: "navigation"
 ---
 <div class="container-fluid">
 <div class="row-fluid">

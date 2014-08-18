@@ -3,26 +3,24 @@ layout: default
 title: Home
 ---
 
-<div class="hero-unit">
-<p><h1>Webshooter</h1>
-<p>Your friendly neighborhood static website layout generator.</p>
-<p><a href="webshooter.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p></p></div>
 
+{% include hero.html %}
 <div class="row">
-<!-- Main hero unit for a primary marketing message or call to action -->
-
-<p><div class="span4">
-<h2>Bootstrap</h2>
-<p>open source web framework</p>
-<p><a href="bootstrap.html" class="btn" href="#">View details &raquo;</a></p>
+<p>
+<div class="span4">
+<h2>webshooter</h2>
+<p>Is a devices worn on the command line which can shoot out a thin new jekyll or hyde website with one of three diffent styles at high pressure.</br/>&nbsp;<br/></p>
+<p><a href="webshooter.html" class="btn" >View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>One.5lab</h2>
-<p>LLNL web template/framework</p>
-<p><a href="one.5lab.html" class="btn" href="#">View details &raquo;</a></p>
+<h2>webengine</h2>
+<p>An ancient piece of Kryptonian technology designed to terraform an outdated website such that its style and content are aligned with newer websites.</p>
+<p><a href="webengine.html" class="btn" >View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>More</h2>
-<p>Other templates also work with webshooter.</p>
-<p><a href="more.html" class="btn" href="#">View details &raquo;</a></p>
-</div></p></div> 
+<h2>utilitybelt</h2>
+<p>Although seemingly unremarkable in appearance, the utility belt remains as one of webshootertk's most important repo in usability.</p>
+<p><a href="utilitybelt.html" class="btn" >View details &raquo;</a></p>
+</div>
+</p>
+</div> 
