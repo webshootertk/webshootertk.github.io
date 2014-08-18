@@ -1,28 +1,28 @@
 ---
 layout: default
-title: Index
+title: Home
 ---
 
 <div class="hero-unit">
-<p><h1>Hello, world!</h1>
-<p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-<p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></p></div>
+<p><h1>Webshooter</h1>
+<p>Your friendly neighborhood static website layout generator.</p>
+<p><a href="webshooter.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p></p></div>
 
 <div class="row">
 <!-- Main hero unit for a primary marketing message or call to action -->
 
 <p><div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<h2>Bootstrap</h2>
+<p>open source web framework</p>
+<p><a href="bootstrap.html" class="btn" href="#">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<h2>One.5lab</h2>
+<p>LLNL web template/framework</p>
+<p><a href="one.5lab.html" class="btn" href="#">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>Heading</h2>
-<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<h2>More</h2>
+<p>Other templates also work with webshooter.</p>
+<p><a href="more.html" class="btn" href="#">View details &raquo;</a></p>
 </div></p></div> 
