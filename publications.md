@@ -11,6 +11,6 @@ group: navigation
 * Poster: [Webshooter, your friendly neighborhood static website layout generator][poster1] 7/2013
 
 [poster1]: Data/media/pdf/poster1.pdf
-[paper1]: Data/media/pdf/paper1.pdf
+[paper1]: http://www.iaeng.org/publication/WCECS2014/WCECS2014_pp131-135.pdf
 [poster2]: Data/media/pdf/poster2.pdf
 [presentation1]: Data/media/pdf/presentation1.pdf
